@@ -8,8 +8,8 @@ MCP_Server/
 - mcp-server.py        # Main server script that registers tools and runs stdio_server
 - check-test.py        # Client script for testing the server
 - my_mcp_server/
-│   ├── __init__.py
-│   └── stdio_server.py  # Reads JSON input and returns output
+   ├── __init__.py
+   └── stdio_server.py  # Reads JSON input and returns output
 ```
 
 ## How to Run
